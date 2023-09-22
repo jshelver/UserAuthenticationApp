@@ -16,6 +16,8 @@ import Navbar from './components/Navbar.vue';
     --dark-text-color: rgb(143, 144, 144);
     --dark-bg-color: rgb(42, 43, 43);
     --accent-color: rgb(42, 192, 223);
+    --hover-accent-color: rgb(48, 169, 193);
+    --button-text-color: rgb(20, 20, 20);
     --dark-navbar-bg-color: rgb(59, 60, 60);
     --dark-navbar-text-color: rgb(225, 229, 230);
     --navbar-height: 70px;
